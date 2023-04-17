@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PongGame",
+            "request": "launch",
+            "mainClass": "PongGame",
+            "projectName": "Ping-pong-game_834ba6de"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
